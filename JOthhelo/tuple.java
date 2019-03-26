@@ -1,3 +1,5 @@
+package JOthhelo;
+
 class tuple{
 	int a;
 	int b;

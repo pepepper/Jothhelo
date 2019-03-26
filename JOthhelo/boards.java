@@ -1,3 +1,5 @@
+package JOthhelo;
+
 class boards{
 	private int board[][];
 	private int delta[][];

@@ -1,3 +1,7 @@
+package JOthhelo;
+
+import JOthhelo.boards;
+
 import java.util.Random;
 
 public class game{
