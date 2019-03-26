@@ -40,6 +40,7 @@ public class Jothhelo implements ActionListener,MouseListener,WindowListener{
 				}else if(menu.rdbtnNewRadioButton_3.isSelected()) {
 					set.netmode=1;
 				}
+				
 			}
 		}else if(arg0.getSource()==menu.rdbtnNewRadioButton||arg0.getSource()==menu.rdbtnNewRadioButton_1) {
 			if(menu.rdbtnNewRadioButton_1.isSelected()) {
